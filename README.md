@@ -1,6 +1,8 @@
+## <a>Introduction</a>
+
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <a>
       <img src="" alt="Project screenshot">
     </a>
   <br />
@@ -13,6 +15,8 @@
 
   <h3 align="center">Wheely Fun - Site for Car enthusiasts</h3>
 </div>
+
+## <a>Live preview</a> [click here](https://wheely-fun.netlify.app)
 
 ## <a>Introduction</a>
   TBD

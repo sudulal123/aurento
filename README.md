@@ -32,7 +32,7 @@ A modern car rental website built with React, Next.js, and TailwindCSS, offering
 
 ```bash
 # Clone the Repository
-git clone https://github.com/sudulal123/wheely-fun.git
+git clone https://github.com/sudulal123/lux-wheels.git
 
 # Installation
 npm install

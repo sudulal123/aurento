@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a>
-      <img src="" alt="Project screenshot">
+      <img src="https://github.com/sudulal123/lux-wheels/assets/86375908/7c95a785-53c9-4ea0-b05e-1c11df4e940a" alt="Project screenshot">
     </a>
   <br />
 
@@ -14,17 +14,13 @@
 
 ## <a>Introduction</a>
 
-TBD
+A modern car rental website built with React, Next.js, and TailwindCSS, offering a sleek and responsive user interface. It features a dynamic car listing page with details. The integration of Next.js ensures optimal performance and TailwindCSS allows for easy and efficient styling.
 
 ## <a>Tools</a>
 
   <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-
-## <a>Features</a>
-
-TBD
 
 ## <a>Setup</a>
 
@@ -58,3 +54,9 @@ NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
 
 Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for API and replace the placeholder values with your credentials.
+
+## <a>Checklist: To-dos</a>
+  - Sign in function
+  - Car browse page: optimize reloading page
+  - resolve build issues and deploy it for live preview
+  - Fix image loading in page either with paid API or manual upload

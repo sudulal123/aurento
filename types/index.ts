@@ -11,8 +11,8 @@ export interface VehicleProps {
   fuel_type: string;
   highway_mpg: number;
   displacement: number;
-  combination_mpg: number;
   transmission: string;
+  combination_mpg: number;
 }
 
 export interface FilterProps {

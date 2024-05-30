@@ -1,6 +1,8 @@
+"use client";
+
 import Link from "next/link";
+import Button from "./button";
 import Image from "next/image";
-import CustomButton from "./customButton";
 
 const NavBar = () => (
   <header className='w-full absolute z-10'>
@@ -15,10 +17,10 @@ const NavBar = () => (
         />
       </Link>
 
-      <CustomButton
+      <Button
         title='Sign in'
         btnType='button'
-        containerStyles='text-white rounded-full bg-primary-teal min-w-[130px]'
+        containerStyles='text-white rounded-full bg-primary-teal min-w-[130px] hover:bg-green-600'
       />
     </nav>
   </header>

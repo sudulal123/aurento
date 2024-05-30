@@ -1,5 +1,5 @@
 {
-  "name": "hyper-wheels",
+  "name": "lux-wheels",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,6 +14,7 @@
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
+    "framer-motion": "^11.2.9",
     "next": "^14.2.3",
     "postcss": "^8.4.38",
     "react": "18.2.0",

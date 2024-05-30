@@ -1,9 +1,10 @@
 "use client";
 
 import Image from "next/image";
-import { CustomButton } from "@components";
+import { Button } from "@components";
+import { motion } from "framer-motion";
 
-const HeroPage = () => {
+const Hero = () => {
   const handleScroll = () => {
     const nextSection = document.getElementById("discover");
 
@@ -15,24 +16,28 @@ const HeroPage = () => {
   return (
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
-        <h1 className="hero__title">
-          Turning dreams into drives
+        <h1 className="hero__title animate-slidein300">
+          Lease with ease
         </h1>
 
-        <p className="hero__subtitle">
-          lease a luxury vehicle effortlessly and efficiently!
+        <p className="hero__subtitle animate-slidein500">
+          Turning dreams into drives
         </p>
 
-        <CustomButton
+        <Button
           title="Explore more"
-          containerStyles="bg-primary-teal text-white rounded-full mt-10"
+          containerStyles="bg-primary-teal text-white rounded-full mt-10 animate-slidein700 hover:bg-green-600"
           handleClick={handleScroll}
         />
       </div>
       <div className="hero__image-container">
-        <div className="hero__image">
+        <motion.div
+          animate={{ x: -50 }}
+          className="hero__image"
+          transition={{ delay: 1 }}
+        >
           <Image src="/porsche911.png" alt="hero" fill className="object-contain" />
-        </div>
+        </motion.div>
 
         <div className="hero__image-overlay" />
       </div>
@@ -40,4 +45,4 @@ const HeroPage = () => {
   );
 };
 
-export default HeroPage;
+export default Hero;

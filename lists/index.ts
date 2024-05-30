@@ -1,17 +1,45 @@
 export const manufacturers = [
+  "Acura",
+  "Alfa Romeo",
   "Aston Martin",
   "Audi",
   "Bentley",
   "BMW",
+  "Buick",
+  "Cadillac",
+  "Chevrolet",
+  "Chrysler",
+  "Citroen",
+  "Dodge",
   "Ferrari",
+  "Fiat",
+  "Ford",
+  "GMC",
+  "Honda",
+  "Hyundai",
+  "Infiniti",
   "Jaguar",
+  "Jeep",
+  "Kia",
   "Lamborghini",
+  "Land Rover",
   "Lexus",
+  "Lincoln",
   "Maserati",
+  "Mazda",
   "McLaren",
   "Mercedes-Benz",
+  "MINI",
+  "Mitsubishi",
+  "Nissan",
   "Porsche",
+  "Ram",
   "Rolls-Royce",
+  "Subaru",
+  "Tesla",
+  "Toyota",
+  "Volkswagen",
+  "Volvo",
 ];
 
 export const yearsOfProduction = [
@@ -25,6 +53,7 @@ export const yearsOfProduction = [
   { title: "2021", value: "2021" },
   { title: "2022", value: "2022" },
   { title: "2023", value: "2023" },
+  { title: "2024", value: "2024" },
 ];
 
 export const fuels = [
@@ -34,11 +63,11 @@ export const fuels = [
   },
   {
     title: "Petrol",
-    value: "Petrol",
+    value: "Gas",
   },
   {
     title: "Electric",
-    value: "Electric",
+    value: "Electricity",
   },
 ];
 
@@ -60,8 +89,8 @@ export const footerLinks = [
   {
     title: "Socials",
     links: [
-      { title: "Discord", url: "/" },
       { title: "Twitter", url: "/" },
+      { title: "Discord", url: "/" },
     ],
   },
 ];

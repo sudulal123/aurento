@@ -1,19 +1,19 @@
-import Hero from "./heroPage";
+import Hero from "./hero";
+import Button from "./button";
+import Filter from "./filter";
+import Footer from "./footer";
 import NavBar from "./navbar";
 import ShowMore from "./showMore";
-import Footer from "./footerPage";
 import SearchBar from "./searchbar";
 import VehicleCard from "./vehicleCard";
-import CustomButton from "./customButton";
-import CustomFilter from "./customFilter";
 
 export {
   Hero,
-  Footer,
+  Button,
+  Filter,
   NavBar,
+  Footer,
   ShowMore,
   SearchBar,
   VehicleCard,
-  CustomFilter,
-  CustomButton,
 };

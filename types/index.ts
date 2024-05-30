@@ -37,7 +37,7 @@ export interface VehicleCardProps {
   transmission: string;
 }
 
-export interface CustomButtonProps {
+export interface ButtonProps {
   title: string;
   rightIcon?: string;
   textStyles?: string;
@@ -52,7 +52,7 @@ export interface OptionProps {
   value: string;
 }
 
-export interface CustomFilterProps {
+export interface FilterProps {
   title: string;
   options: OptionProps[];
 }

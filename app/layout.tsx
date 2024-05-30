@@ -3,7 +3,7 @@ import { Footer, NavBar } from "@components";
 
 export const metadata = {
   title: "Lux Wheels",
-  description: "Luxury cars haven",
+  description: "Car leasing haven",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

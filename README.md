@@ -7,10 +7,10 @@
     </a>
   <br />
 
-  <h3 align="center">Hyper Wheels - Site for Car enthusiasts</h3>
+  <h3 align="center">Lux Wheels - Car leasing Site</h3>
 </div>
 
-## <a>Live preview:</a> [click here!](https://hyperwheels.netlify.app)
+## <a>Live preview:</a> [click here!](https://luxwheels.netlify.app)
 
 ## <a>Introduction</a>
 

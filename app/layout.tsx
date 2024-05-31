@@ -2,8 +2,8 @@ import "./globals.css";
 import { Footer, NavBar } from "@components";
 
 export const metadata = {
-  title: "Lux Wheels",
-  description: "Car leasing haven",
+  title: "Aurento",
+  description: "Car leasing portal",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

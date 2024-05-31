@@ -7,10 +7,8 @@
     </a>
   <br />
 
-  <h3 align="center">Lux Wheels - Car leasing Site</h3>
+  <h3 align="center">Aurento - Car leasing site</h3>
 </div>
-
-## <a>Live preview:</a> [click here!](https://luxwheels.netlify.app)
 
 ## <a>Introduction</a>
 
@@ -36,7 +34,7 @@ TBD
 
 ```bash
 # Clone the Repository
-git clone https://github.com/sudulal123/wheely-fun.git
+git clone https://github.com/sudulal123/aurento.git
 
 # Installation
 npm install
@@ -48,7 +46,7 @@ npm run dev
 npm run build
 ```
 
-**Env Variables**
+**env Variables**
 
 Create a new file named `.env` in the root of your project and add the following content:
 
@@ -57,4 +55,5 @@ NEXT_PUBLIC_RAPID_API_KEY=
 NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
 
+!! Disclaimer !!
 Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for API and replace the placeholder values with your credentials.

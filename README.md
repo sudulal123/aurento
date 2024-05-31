@@ -1,16 +1,17 @@
-## <a>Introduction</a>
-
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/sudulal123/lux-wheels/assets/86375908/7c95a785-53c9-4ea0-b05e-1c11df4e940a" alt="Project screenshot">
+      <h1 align="center">Aurento - Car leasing site</h3>
+      <img src="https://github.com/sudulal123/aurento/assets/86375908/e73591a5-8349-4a31-b518-fdf6a402f57e" alt="Project screenshot_1">
+      <img src="https://github.com/sudulal123/aurento/assets/86375908/906381e2-ec36-4503-9ddd-315667078a49" alt="Project screenshot_2">
+      <a>Disclaimer! Car images loading issue due to expiration of an API  </a>
     </a>
+
   <br />
 
 </div>
 
 ## <a>Introduction</a>
-
 A modern car rental website built with React, Next.js, and TailwindCSS, offering a sleek and responsive user interface. It features a dynamic car listing page with details. The integration of Next.js ensures optimal performance and TailwindCSS allows for easy and efficient styling.
 
 ## <a>Tools</a>
@@ -29,6 +30,7 @@ A modern car rental website built with React, Next.js, and TailwindCSS, offering
 
 ```bash
 # Clone the Repository
+git clone https://github.com/sudulal123/aurento.git
 
 # Installation
 npm install
@@ -48,6 +50,4 @@ Create a new file named `.env` in the root of your project and add the following
 NEXT_PUBLIC_RAPID_API_KEY=
 NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
-
-!! Disclaimer !!
-Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for API and replace the placeholder values with your credentials.
+Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for APIs and replace the placeholder values with your credentials in above mentioned `.env` file.

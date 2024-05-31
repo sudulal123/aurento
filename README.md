@@ -7,10 +7,8 @@
     </a>
   <br />
 
-  <h3 align="center">Lux Wheels - Car leasing Site</h3>
+  <h3 align="center">Lux wheels - Car leasing site</h3>
 </div>
-
-## <a>Live preview:</a> [click here!](https://luxwheels.netlify.app)
 
 ## <a>Introduction</a>
 
@@ -54,8 +52,3 @@ NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
 
 Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for API and replace the placeholder values with your credentials.
-
-## <a>Checklist: To-dos</a>
-  - Sign in function
-  - Car browse page: optimize reloading page
-  - Fix image loading in page either with paid API or manual upload

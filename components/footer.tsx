@@ -8,7 +8,7 @@ const Footer = () => (
       <div className='flex flex-col justify-start items-start gap-6'>
         <Image src='/logo.svg' alt='logo' width={118} height={18} className='object-contain' />
         <p className='text-base text-gray-700'>
-          Lux Wheels GmbH<br />
+          Aurento GmbH<br />
           Musterstraße 24, Musterstadt
         </p>
       </div>
@@ -34,7 +34,7 @@ const Footer = () => (
     </div>
 
     <div className='flex justify-between items-center flex-wrap mt-0 border-t border-gray-400 sm:px-16 px-6 py-10'>
-      <p>@2024 Lux Wheels. All rights reserved</p>
+      <p>@2024 Aurento. All rights reserved</p>
 
       <div className="footer__copyrights-link">
         <Link href="/" className="text-gray-500 hover:text-green-500">

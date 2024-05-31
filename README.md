@@ -7,7 +7,6 @@
     </a>
   <br />
 
-  <h3 align="center">Lux wheels - Car leasing site</h3>
 </div>
 
 ## <a>Introduction</a>
@@ -30,7 +29,6 @@ A modern car rental website built with React, Next.js, and TailwindCSS, offering
 
 ```bash
 # Clone the Repository
-git clone https://github.com/sudulal123/lux-wheels.git
 
 # Installation
 npm install
@@ -42,7 +40,7 @@ npm run dev
 npm run build
 ```
 
-**Env Variables**
+**env Variables**
 
 Create a new file named `.env` in the root of your project and add the following content:
 
@@ -51,4 +49,5 @@ NEXT_PUBLIC_RAPID_API_KEY=
 NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
 
+!! Disclaimer !!
 Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for API and replace the placeholder values with your credentials.

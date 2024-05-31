@@ -58,5 +58,4 @@ Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.ima
 ## <a>Checklist: To-dos</a>
   - Sign in function
   - Car browse page: optimize reloading page
-  - resolve build issues and deploy it for live preview
   - Fix image loading in page either with paid API or manual upload

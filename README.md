@@ -4,7 +4,7 @@
       <h1 align="center">Aurento - Car leasing site</h3>
       <img src="https://github.com/sudulal123/aurento/assets/86375908/e73591a5-8349-4a31-b518-fdf6a402f57e" alt="Project screenshot_1">
       <img src="https://github.com/sudulal123/aurento/assets/86375908/906381e2-ec36-4503-9ddd-315667078a49" alt="Project screenshot_2">
-      <a>Disclaimer! Car images loading issue due to expiration of an API  </a>
+      <a>Note: Car images are missing due to expiration of the trial API (Imagin Cars) </a>
     </a>
 
   <br />

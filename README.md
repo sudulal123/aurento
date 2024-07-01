@@ -1,26 +1,35 @@
 <div align="center">
   <br />
     <a>
-      <h1 align="center">Aurento - Car leasing site</h3>
-      <img src="https://github.com/sudulal123/aurento/assets/86375908/e73591a5-8349-4a31-b518-fdf6a402f57e" alt="Project screenshot_1">
-      <img src="https://github.com/sudulal123/aurento/assets/86375908/906381e2-ec36-4503-9ddd-315667078a49" alt="Project screenshot_2">
-      <a>Note: Car images are missing due to expiration of the trial API (Imagin Cars) </a>
+      <img src="https://github.com/sudulal123/aurento/assets/86375908/e73591a5-8349-4a31-b518-fdf6a402f57e" alt="Project Banner">
     </a>
-
   <br />
+  
+  <h3 align="center">Aurento - Car leasing site</h3>
 
 </div>
 
-## <a>Introduction</a>
-A modern car rental website built with React, Next.js, and TailwindCSS, offering a sleek and responsive user interface. It features a dynamic car listing page with details. The integration of Next.js ensures optimal performance and TailwindCSS allows for easy and efficient styling.
+## <a name="table">Table of Contents</a>
 
-## <a>Tools</a>
+1. [Introduction](#introduction)
+2. [Tech Stacks](#tech-stacks)
+3. [Quick Start](#quick-start)
+4. [Features](#features)
+5. [To-do](#to-do)
 
-  <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+## <a name="introduction"> Introduction </a>
 
-## <a>Setup</a>
+A modern car rental website offering a sleek and responsive user interface.
+
+The integration of Next.js ensures optimal performance and Tailwind CSS allows for easy and efficient styling.
+
+## <a name="tech-stacks"> Tech Stack </a>
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## <a name="quick-start"> Quick Start </a>
 
 **Prerequisites**
 
@@ -41,6 +50,7 @@ npm run dev
 # Build the project
 npm run build
 ```
+<br/>
 
 **env Variables**
 
@@ -51,3 +61,17 @@ NEXT_PUBLIC_RAPID_API_KEY=
 NEXT_PUBLIC_IMAGIN_API_KEY=
 ```
 Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.imagin.studio/solutions/api) for APIs and replace the placeholder values with your credentials in above mentioned `.env` file.
+
+
+## <a name="features"> Features </a>
+
+**Dynamic listing**: It offers a dynamic car listing page with details.
+
+**Search functionality**: Allow users to search for a specific car and model in the search field.
+
+**Drop-down selection**: Allow users to select a car with a specific built year or with specific fuel options.
+
+## <a name="to-do"> To-do </a>
+- [ ] To Fix: page reload after selection of option
+- [ ] To Fix: Alternative API Imagin API for car images  
+- [ ] To implement: Sign-in button with pop-up login dialogue

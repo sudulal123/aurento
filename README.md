@@ -13,7 +13,6 @@
 2. [Tech Stacks](#tech-stacks)
 3. [Quick Start](#quick-start)
 4. [Features](#features)
-5. [To-do](#to-do)
 
 
 ## <a name="introduction"> Introduction </a>
@@ -72,7 +71,11 @@ Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.ima
 **Drop-down selection**: Allow users to select a car with a specific built year or with specific fuel options.
 
 
+<!--
+5. [To-do](#to-do)
+
 ## <a name="to-do"> To-do </a>
 - [ ] Page reload
 - [ ] Sign-in button with pop-up login dialogue
 - [ ] Alternative API to Imagin API for car images  
+-->

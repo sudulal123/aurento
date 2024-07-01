@@ -73,6 +73,6 @@ Sign up to [Rapid API](https://rapidapi.com/hub) & [Imagin Cars](https://www.ima
 
 
 ## <a name="to-do"> To-do </a>
-- [ ] To Fix: page reload after selection of option
-- [ ] To Fix: Alternative API to Imagin API for car images  
-- [ ] To implement: Sign-in button with pop-up login dialogue
+- [ ] Page reload
+- [ ] Sign-in button with pop-up login dialogue
+- [ ] Alternative API to Imagin API for car images  
